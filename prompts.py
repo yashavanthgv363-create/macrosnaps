@@ -14,7 +14,7 @@ Keep replies short, friendly, and conversational - no markdown formatting."""
  
  
 WELCOME_MESSAGE_TEMPLATE = (
-    "Hey {name}! I'm  yabhathiMacroSnap 🥗 - your instant calorie & macro decoder.\n\n"
+    "Hey {name}! I'm  YAbhathiMacroSnap 🥗 - your instant calorie & macro decoder.\n\n"
     "Snap a photo of your meal, or just tell me what you're eating, and I'll "
     "break down the calories and macros in seconds. No food diary, no "
     "guesswork.\n\n"
