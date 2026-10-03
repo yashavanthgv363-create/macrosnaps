@@ -1,4 +1,4 @@
-gogle-genai
+google-genai
 streamlit
 twilio
 
